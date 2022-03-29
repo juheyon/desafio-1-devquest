@@ -1,0 +1,17 @@
+.cabecalho-moda th {
+    background-color: #BB86FC;
+    color: #ffffff;
+    padding:10px;
+}
+
+.cabecalho-casa th {
+    background-color: #00C4B4;
+    color: #ffffff;
+    padding:10px;
+}
+
+.cabecalho-moda td, .cabecalho-casa td {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 10px;
+}
